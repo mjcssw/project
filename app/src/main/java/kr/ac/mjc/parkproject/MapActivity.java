@@ -42,7 +42,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
             new LatLng(37.292291, 127.199561), // 범퍼카
             new LatLng(37.293798, 127.200964), // 레이싱 코스터
             new LatLng(37.291332, 127.209639), // 로스트밸리
-            new LatLng(37.293448, 127.202817)  // 판다월드
+            new LatLng(37.292945, 127.202841)  // 판다월드
     };
 
     // 각 명소에 대응되는 이름 배열
