@@ -14,8 +14,7 @@
         android:layout_marginBottom="8dp"
         android:text="#놀이동산 #테마파크시설 #에버랜드"
         android:textColor="@android:color/black"
-        android:textSize="16sp"
-        android:textStyle="bold" />
+        android:textSize="16sp" />
 
     <!-- 링크 텍스트뷰 -->
     <TextView
