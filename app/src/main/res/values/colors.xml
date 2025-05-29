@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 배경색: 아주 연한 베이지 톤 -->
+    <color name="LinearLayout">#FDFBF8</color>
+
+    <!-- 로그인 버튼 배경색: 황토색 계열 -->
+    <color name="btn_et">#A68A55</color>
+
+    <!-- 로그인 버튼 텍스트: 흰색 -->
+    <color name="login_button_text">#FFFFFF</color>
+
+    <!-- 기본 텍스트 (로그인 등): 진한 검정 -->
+    <color name="text_et">#212121</color>
+
+    <!-- 이메일/비밀번호 placeholder 색: 회색 -->
+    <color name="input_hint">#9E9E9E</color>
+
+
+    <!-- 입력창 테두리 색 -->
+    <color name="input_border">#BDBDBD</color>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/info_fragment_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- 태그 텍스트뷰 -->
+    <TextView
+        android:id="@+id/info_tags"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#놀이동산 #테마파크시설 #에버랜드"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="8dp" />
+
+    <!-- 링크 텍스트뷰 -->
+    <TextView
+        android:id="@+id/placeName_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="https://www.everland.com/"
+        android:textColor="@android:color/black"
+        android:textSize="16sp" />
+</LinearLayout>

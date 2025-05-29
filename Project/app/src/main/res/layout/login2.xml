@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:padding="50dp">
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="match_parent"
+        android:layout_height="106dp"
+        app:srcCompat="@drawable/_2025_05_22__1_02_07" />
+
+    <TextView
+        android:id="@+id/text_et"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_margin="40dp"
+        android:fontFamily="sans-serif-black"
+        android:gravity="center"
+        android:textSize="34sp"
+        tools:text="환영합니다" />
+
+    <EditText
+        android:id="@+id/email_et"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="아이디"
+        android:inputType="textEmailAddress"
+        android:paddingHorizontal="12dp"
+        android:textColor="#000000"
+        android:textColorHint="#888888"
+        android:layout_marginBottom="24dp" />
+
+    <EditText
+        android:id="@+id/password_et"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="비밀번호"
+        android:inputType="textPassword"
+        android:paddingHorizontal="12dp"
+        android:textColor="#000000"
+        android:textColorHint="#888888"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/btn_et"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="회원가입"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#D2691E"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>
+
+
+
