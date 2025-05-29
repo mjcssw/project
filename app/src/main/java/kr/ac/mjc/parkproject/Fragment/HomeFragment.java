@@ -24,7 +24,7 @@ public class HomeFragment extends Fragment {
 
     static {
         placeAddressMap.put("T익스프레스", "경기도 용인시 처인구 포곡읍 에버랜드로 199");
-        placeAddressMap.put("아마존 익스프레스", "에버랜드로,경기도 용인시 처인구 포곡읍");
+        placeAddressMap.put("아마존 익스프레스", "경기도 용인시 처인구 에버랜드로 199");
         placeAddressMap.put("사파리 월드", "경기도 용인시 처인구 에버랜드로 199");
         placeAddressMap.put("피터팬", "경기도 용인시 처인구 포곡읍 가실리 104-9");
         placeAddressMap.put("챔피언쉽 로데오", "경기도 용인시 처인구 포곡읍 가실리");

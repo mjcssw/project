@@ -41,7 +41,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
             new LatLng(37.291697, 127.199631), // 로얄 쥬빌리 캐로셀
             new LatLng(37.292291, 127.199561), // 범퍼카
             new LatLng(37.293798, 127.200964), // 레이싱 코스터
-            new LatLng(37.291358, 127.209972), // 로스트밸리
+            new LatLng(37.291332, 127.209639), // 로스트밸리
             new LatLng(37.293448, 127.202817)  // 판다월드
     };
 
@@ -53,7 +53,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
             "피터팬",
             "챔피언쉽 로데오",
             "썬더폴스",
-            "회전목마",
+            "로얄 쥬빌리 캐로셀",
             "범퍼카",
             "레이싱 코스터",
             "로스트밸리",
