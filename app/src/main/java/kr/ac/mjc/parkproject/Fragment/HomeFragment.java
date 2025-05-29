@@ -30,13 +30,13 @@ public class HomeFragment extends Fragment {
         placeAddressMap.put("아마존 익스프레스", "경기도 용인시 처인구 에버랜드로 199");
         placeAddressMap.put("사파리 월드", "경기도 용인시 처인구 에버랜드로 199");
         placeAddressMap.put("피터팬", "경기도 용인시 처인구 포곡읍 가실리 104-9");
-        placeAddressMap.put("챔피언쉽 로데오", "경기도 용인시 처인구 포곡읍 가실리");
+        placeAddressMap.put("챔피언쉽 로데오", "경기 용인시 처인구 포곡읍 에버랜드로 199");
         placeAddressMap.put("썬더폴스", "경기도 용인시 처인구 포곡읍 에버랜드로 204");
         placeAddressMap.put("로얄 쥬빌리 캐로셀", "경기도 용인시 처인구 포곡읍 에버랜드로 199");
         placeAddressMap.put("범퍼카", "경기도 용인시 처인구 포곡읍 가실리 104-50");
         placeAddressMap.put("레이싱 코스터", "경기도 용인시 처인구 포곡읍 가실리 104-24");
         placeAddressMap.put("로스트밸리", "경기도 용인시 처인구 포곡읍 전대리 498-1");
-        placeAddressMap.put("판다월드", "경기도 용인시 처인구 포곡읍");
+        placeAddressMap.put("판다월드", "경기 용인시 처인구 포곡읍 에버랜드로 199");
 
         // 설명 맵
         placeDescriptionMap.put("T익스프레스", "시속 104km의 엄청난 속도, 낙하각 77도의 아찔함!\n" +
@@ -44,7 +44,7 @@ public class HomeFragment extends Fragment {
 
         placeDescriptionMap.put("아마존 익스프레스", "많은 탐험가들이 호수 속에 잠들어 있는\n" +
                 "황금을 차지하기 위해 보트 위에 몸을 맡겼다!\n" +
-                "아마존 밀림 구석구석 장장 580미터 굽이치는 급류 속으로\n" +
+                "아마존 밀림 구석구석 장장 580미터 굽이치는\n급류 속으로 " +
                 "꿈과 모험을 찾아 떠나는 곳!!");
 
         placeDescriptionMap.put("사파리 월드", "더 가까이, 코앞에서 생생한 맹수를 만날 기회!\n" +
