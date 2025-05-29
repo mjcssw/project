@@ -47,7 +47,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
 
     // 각 명소에 대응되는 이름 배열
     private final String[] attractionNames = new String[] {
-            "T 익스프레스",
+            "T익스프레스",
             "아마존 익스프레스",
             "사파리 월드",
             "피터팬",
