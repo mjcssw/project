@@ -32,7 +32,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
 
     // 에버랜드 명소 좌표
     private final LatLng[] everlandAttractions = new LatLng[] {
-            new LatLng(37.289972, 127.202612), // T 익스프레스
+            new LatLng(37.289972, 127.202612), // T익스프레스
             new LatLng(37.291327, 127.205943), // 아마존 익스프레스
             new LatLng(37.291163, 127.205061), // 사파리 월드
             new LatLng(37.292735, 127.199061), // 피터팬
