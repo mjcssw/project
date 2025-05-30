@@ -172,6 +172,7 @@ public class HomeFragment extends Fragment {
         // 텍스트뷰 설정
         TextView nameTextView = view.findViewById(R.id.placeName_tv);
         TextView addressTextView = view.findViewById(R.id.placeLocation_tv);
+        TextView descriptionTv = view.findViewById(R.id.placeDescription_tv);
         TextView descriptionTextView = view.findViewById(R.id.placeDescription_tv);
 
         TextView infoTextView = view.findViewById(R.id.mapInfoValue_tv);
@@ -189,9 +190,10 @@ public class HomeFragment extends Fragment {
                 heightRestrictionMap.get(placeName) : "신장 제한 정보 없음";
         heightRestrictionTextView.setText(heightRestriction);
 
-
         nameTextView.setText(placeName);
         addressTextView.setText(placeAddress);
+
+        descriptionTv.setMovementMethod(new android.text.method.ScrollingMovementMethod());
 
         if (!placeDescription.isEmpty()) {
             descriptionTextView.setText(placeDescription);

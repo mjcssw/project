@@ -15,7 +15,6 @@
     <!-- 이메일/비밀번호 placeholder 색: 회색 -->
     <color name="input_hint">#9E9E9E</color>
 
-
     <!-- 입력창 테두리 색 -->
     <color name="input_border">#BDBDBD</color>
 
