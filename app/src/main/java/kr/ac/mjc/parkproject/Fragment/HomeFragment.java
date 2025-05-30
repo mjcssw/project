@@ -74,7 +74,7 @@ public class HomeFragment extends Fragment {
                 "항상 사랑받는 우리의 범퍼카~\n" +
                 "\n" +
                 "면허증이 없어도 오케이!\n" +
-                "귀여운 자동차를 타고 요리 쿵 조리 쿵 부딪혀보며\n" +
+                "귀여운 자동차를 타고 요리 쿵 조리 쿵\n부딪혀보며 " +
                 "재미난 경험을 즐겨 보세요.");
 
         placeDescriptionMap.put("레이싱 코스터", "빠르게, 더 빠르게!\n" +
