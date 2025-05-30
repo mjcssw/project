@@ -9,7 +9,12 @@
         android:id="@+id/tab_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:tabMode="fixed" />
+        app:tabTextColor="@android:color/black"
+        app:tabSelectedTextColor="@android:color/black"
+        app:tabIndicatorColor="@android:color/black"
+        app:tabRippleColor="@android:color/darker_gray"
+        app:tabMode="fixed"
+        app:tabIndicatorFullWidth="true" />
 
     <androidx.viewpager2.widget.ViewPager2
         android:id="@+id/view_pager"
