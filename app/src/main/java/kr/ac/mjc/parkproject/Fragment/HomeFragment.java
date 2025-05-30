@@ -146,7 +146,6 @@ public class HomeFragment extends Fragment {
         heightRestrictionMap.put("판다월드", "제한 없음");
     }
 
-
     public static HomeFragment newInstance(String placeName) {
         HomeFragment fragment = new HomeFragment();
         Bundle args = new Bundle();
